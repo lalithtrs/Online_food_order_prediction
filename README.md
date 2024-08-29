@@ -1,5 +1,3 @@
----
-
 Title: Food Order Prediction Using Random Forest
 
 Description:
@@ -12,6 +10,3 @@ Use Cases:
 - Resource Allocation: Optimize staff and inventory based on predicted order volumes.
 - Customer Segmentation: Understand the characteristics of customers who are more inclined to order food.
 - Promotional Strategy Development: Tailor promotions and offers based on the likelihood of customers placing orders.
-
----
-
